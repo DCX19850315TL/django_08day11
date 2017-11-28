@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/django_08day11.iml" filepath="$PROJECT_DIR$/.idea/django_08day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../operation_platform/.idea/operation_platform.iml" filepath="$PROJECT_DIR$/../operation_platform/.idea/operation_platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_oldboy/.idea/python_oldboy.iml" filepath="$PROJECT_DIR$/../python_oldboy/.idea/python_oldboy.iml" />
     </modules>
   </component>
 </project>
