@@ -81,8 +81,8 @@ DATABASES = {
     'NAME':'08day11',
     'USER': 'root',
     'PASSWORD': '123456',
-    'HOST': '',
-    'PORT': '',
+    'HOST': 'localhost',
+    'PORT': '3306',
     'OPTIONS':{
         'init_command':"SET sql_mode='STRICT_TRANS_TABLES'",
     },
