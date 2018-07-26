@@ -16,6 +16,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="python_oldboy" />
     <orderEntry type="module" module-name="operation_platform" />
+    <orderEntry type="module" module-name="cmdb_client" />
+    <orderEntry type="module" module-name="cmdb_server" />
+    <orderEntry type="module" module-name="django_08day13" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
